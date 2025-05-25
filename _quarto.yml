@@ -3,18 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "izzy-chang.github.io"
+  title: "Isabel Chang"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - extracurriculars.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
