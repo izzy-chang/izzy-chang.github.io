@@ -5,12 +5,15 @@ project:
 website:
   title: "Isabel Chang"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - extracurriculars.qmd
-      - travels.qmd
+      - href: about.qmd
+        text: About Me
+      - href: extracurriculars.qmd
+        text: Extracurriculars
+      - href: travels.qmd
+        text: Travels
 
 format:
   html:

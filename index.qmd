@@ -7,11 +7,14 @@ about:
   image-shape: round
   image-width: 25em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/isabel-chang-5061662b0/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/izzy-chang
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:isabelchang@ucsb.edu
 ---
 

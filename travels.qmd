@@ -2,4 +2,3 @@
 title: "Travels"
 format: html
 ---
-
