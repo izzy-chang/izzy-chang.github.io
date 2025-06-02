@@ -1,0 +1,15 @@
+---
+title: "Hypothetical Incursion Plan"
+format: html
+page-layout: article
+---
+
+## Overview
+
+This is a hypothetical incursion plan if the Rosy Wolf Snail invaded New Zealand.
+
+## Paper
+
+<iframe src="incursion.pdf" width="100%" height="600px" style="border:none;">
+
+</iframe>
