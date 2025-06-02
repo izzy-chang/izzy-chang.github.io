@@ -18,3 +18,7 @@ A restoration management plan to eradicate non-native speices and replace with C
 ## [Incursion Plan](incursion.qmd)
 
 A hypothetical incursion plan for the Rosy Wolf snail in New Zealand.
+
+## [ArcGIS Pro StoryMap](https://storymaps.arcgis.com/stories/500c2a3c646843bdb1463ab200f3e922)
+
+A StoryMap analyzing habitat corridor threats in ecoregions of California.
