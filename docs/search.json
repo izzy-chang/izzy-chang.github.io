@@ -56,6 +56,13 @@
     "text": "Incursion Plan\nA hypothetical incursion plan for the Rosy Wolf snail in New Zealand."
   },
   {
+    "objectID": "research/research.html#arcgis-pro-storymap",
+    "href": "research/research.html#arcgis-pro-storymap",
+    "title": "Research",
+    "section": "ArcGIS Pro StoryMap",
+    "text": "ArcGIS Pro StoryMap\nA StoryMap analyzing habitat corridor threats in ecoregions of California."
+  },
+  {
     "objectID": "research/rmp.html",
     "href": "research/rmp.html",
     "title": "RMP",
@@ -103,12 +110,5 @@
     "title": "Isabel Chang",
     "section": "",
     "text": "Hi! I’m Isabel Chang, a fourth-year undergraduate at UC Santa Barbara, originally from Ithaca, New York. I am graduating in a few weeks with a Bachelor of Science in Environmental Studies with a concentration in Ecology."
-  },
-  {
-    "objectID": "research/research.html#arcgis-pro-storymap",
-    "href": "research/research.html#arcgis-pro-storymap",
-    "title": "Research",
-    "section": "ArcGIS Pro StoryMap",
-    "text": "ArcGIS Pro StoryMap\nA StoryMap analyzing habitat corridor threats in ecoregions of California."
   }
 ]
