@@ -1,0 +1,15 @@
+---
+title: "RMP"
+format: html
+page-layout: article
+---
+
+## Overview
+
+This is a restoration management plan to eradicate non-native species and restore them with California native species in the East More Mesa space in Goleta, California.
+
+## Paper
+
+<iframe src="RMP.pdf" width="100%" height="600px" style="border:none;">
+
+</iframe>
