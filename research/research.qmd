@@ -14,3 +14,7 @@ A project researching if predator-proof fencing works in New Zealand by using ob
 ## [RMP](rmp.qmd)
 
 A restoration management plan to eradicate non-native speices and replace with California native species at East More Mesa space in Goleta, California.
+
+## [Incursion Plan](incursion.qmd)
+
+A hypothetical incursion plan for the Rosy Wolf snail in New Zealand.
