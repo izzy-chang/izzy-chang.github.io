@@ -6,19 +6,33 @@ page-layout: article
 
 ## Projects and Papers
 
-## [NZ Birds Project](nz-birds.qmd)
+### [NZ Birds Project](nz-birds.qmd)
 
 A project researching if predator-proof fencing works in New Zealand by using observations of three species of birds.
 
 
-## [RMP](rmp.qmd)
+### [RMP](rmp.qmd)
 
 A restoration management plan to eradicate non-native speices and replace with California native species at East More Mesa space in Goleta, California.
 
-## [Incursion Plan](incursion.qmd)
+### [Incursion Plan](incursion.qmd)
 
 A hypothetical incursion plan for the Rosy Wolf snail in New Zealand.
 
-## [ArcGIS Pro StoryMap](https://storymaps.arcgis.com/stories/500c2a3c646843bdb1463ab200f3e922)
+### [ArcGIS Pro StoryMap](https://storymaps.arcgis.com/stories/500c2a3c646843bdb1463ab200f3e922)
 
 A StoryMap analyzing habitat corridor threats in ecoregions of California.
+
+## Lab Assistant Work
+
+### Marine Parasite Lab -- Kuris Lab
+
+In the Kuris Lab, I assisted with the dissection of octopuses to study marine parasites. I independently analyzed organs to identify infections from *Aggregata* species and helped maintain detailed records, including data entry and photo documentation. I also took care of octopus husbandry, including feeding, cleaning tanks, and monitoring the animals' health on a regular basis.
+
+### Plant Flammability Lab -- D'Antonio Lab
+
+While working in the Plant Flammability lab, I collected and recorded plant traits like weight and water potential, and helped carry out experimental burns to study fire behavior. I managed methane tanks, handled eucalyptus samples, and filmed each burn to caputre data for later analysis. 
+
+### Vernal Pool Restoration Lab Assistant -- D'Antonio Lab
+
+In this role, I worked independently in a molecular lab setting to run PCR tests on environmental DNA (eDNA) samples. I practiced careful pipetting and sterile techniques while operating the thermocycler to help indentify species present in vernal pool ecosystems.
