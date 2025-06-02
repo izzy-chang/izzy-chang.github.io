@@ -1,0 +1,15 @@
+---
+title: "NZ Birds Project"
+format: html
+page-layout: article
+---
+
+## Overview
+
+This project explores predator-free fencing in New Zealand and the effects on native bird populations using observational data.
+
+## Paper
+
+<iframe src="nz-birds.pdf" width="100%" height="600px" style="border:none;">
+
+</iframe>

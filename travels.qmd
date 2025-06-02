@@ -2,3 +2,7 @@
 title: "Travels"
 format: html
 ---
+**insert map**
+
+Wellington
+

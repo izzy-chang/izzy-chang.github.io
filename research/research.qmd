@@ -1,4 +1,11 @@
 ---
 title: "Research"
 format: html
+page-layout: article
 ---
+
+## Projects and Papers
+
+## [NZ Birds Project](nz-birds.qmd)
+
+A project researching if predator-proof fencing works in New Zealand by using observations of three species of birds.

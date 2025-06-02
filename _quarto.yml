@@ -8,10 +8,10 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About Me
       - href: extracurriculars.qmd
         text: Extracurriculars
+      - href: research/research.qmd
+        text: Research
       - href: travels.qmd
         text: Travels
 
