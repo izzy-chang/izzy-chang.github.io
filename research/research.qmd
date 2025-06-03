@@ -6,7 +6,9 @@ page-layout: article
 
 ## Environmental Studies Honors Senior Thesis
 
+[eScholarship](https://escholarship.org/uc/item/33f4v76f#main)
 
+[Library Website](https://www.library.ucsb.edu/2025-winners)
 
 ## Projects and Papers
 
@@ -16,7 +18,7 @@ A project researching if predator-proof fencing works in New Zealand by using ob
 
 ### [RMP](rmp.qmd)
 
-A restoration management plan to eradicate non-native speices and replace with California native species at East More Mesa space in Goleta, California.
+A restoration management plan to eradicate non-native species and replace with California native species at East More Mesa space in Goleta, California.
 
 ### [Incursion Plan](incursion.qmd)
 
