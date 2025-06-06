@@ -66,6 +66,8 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -115,11 +117,17 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#where-ive-traveled" id="toc-where-ive-traveled" class="nav-link active" data-scroll-target="#where-ive-traveled">Where I’ve Traveled</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -128,7 +136,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -140,10 +148,33 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>insert map</strong></p>
-<p>Wellington</p>
+<section id="where-ive-traveled" class="level2">
+<h2 class="anchored" data-anchor-id="where-ive-traveled">Where I’ve Traveled</h2>
+<div class="leaflet-map">
+<div id="map" style="height: 500px;">
+
+</div>
+<script>
+  var map = L.map('map').setView([-20, 140], 4); // Centered near Australia/NZ
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors'
+  }).addTo(map);
+
+  // ✈️ Markers for your travel locations
+  L.marker([-41.2865, 174.7762]).addTo(map).bindPopup("Wellington, New Zealand");
+  L.marker([-45.0312, 168.6626]).addTo(map).bindPopup("South Island, NZ (Queenstown)");
+  L.marker([-33.8688, 151.2093]).addTo(map).bindPopup("Sydney, Australia");
+  L.marker([-8.4095, 115.1889]).addTo(map).bindPopup("Bali, Indonesia");
+  L.marker([13.7563, 100.5018]).addTo(map).bindPopup("Bangkok, Thailand");
+  L.marker([21.0285, 105.8542]).addTo(map).bindPopup("Hanoi, Vietnam");
+  L.marker([-17.7134, 178.0650]).addTo(map).bindPopup("Fiji");
+  L.marker([-13.7590, -172.1046]).addTo(map).bindPopup("Samoa");
+</script>
+</div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

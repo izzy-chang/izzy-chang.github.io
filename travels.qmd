@@ -3,6 +3,29 @@ title: "Travels"
 format: html
 ---
 
-**insert map**
+## Where I've Traveled
 
-Wellington
+::: {.leaflet-map}
+
+<div id="map" style="height: 500px;"></div>
+
+<script>
+  var map = L.map('map').setView([-20, 140], 4); // Centered near Australia/NZ
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors'
+  }).addTo(map);
+
+  // ✈️ Markers for your travel locations
+  L.marker([-41.2865, 174.7762]).addTo(map).bindPopup("Wellington, New Zealand");
+  L.marker([-45.0312, 168.6626]).addTo(map).bindPopup("South Island, NZ (Queenstown)");
+  L.marker([-33.8688, 151.2093]).addTo(map).bindPopup("Sydney, Australia");
+  L.marker([-8.4095, 115.1889]).addTo(map).bindPopup("Bali, Indonesia");
+  L.marker([13.7563, 100.5018]).addTo(map).bindPopup("Bangkok, Thailand");
+  L.marker([21.0285, 105.8542]).addTo(map).bindPopup("Hanoi, Vietnam");
+  L.marker([-17.7134, 178.0650]).addTo(map).bindPopup("Fiji");
+  L.marker([-13.7590, -172.1046]).addTo(map).bindPopup("Samoa");
+</script>
+
+:::
+

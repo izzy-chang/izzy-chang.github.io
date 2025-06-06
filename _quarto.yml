@@ -21,6 +21,10 @@ format:
     css: styles.css
     toc: true
     page-layout: full
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+          <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 editor: visual
 
