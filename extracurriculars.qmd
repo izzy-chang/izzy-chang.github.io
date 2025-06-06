@@ -21,7 +21,7 @@ As Development Coordinator, I help lead fundraising efforts to support kids whos
 
 In this role, I help keep things running behind the scenes by processing purchase orders, receiving shipments, and delivering supplies around campus. I regularly work with vendors and campus tradesmen to keep everything organized and on track. I also help organize past maintenance request tickets by creating visual trends with the data to help the departments better understand where resources are going.
 
-[Example of Carpentry Shop Tickets Created Weekly](media/carp_created_weekly.jpeg)
+![Example of Carpentry Shop Tickets Created Weekly](media/carp_created_weekly.jpeg){width=600}
 
-[Example of Carpentry Shop Tickets Created and Closed Monthly](media/carp_created_closed.jpeg)
+![Example of Carpentry Shop Tickets Created and Closed Monthly](media/carp_created_closed.jpeg){width=600}
 

@@ -3,7 +3,7 @@ title: "Travels"
 format: html
 ---
 
-## Where I've Traveled
+## Where I Traveled During Study Abroad
 
 ::: {.leaflet-map}
 
@@ -28,4 +28,6 @@ format: html
 </script>
 
 :::
+
+
 

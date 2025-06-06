@@ -13,17 +13,19 @@ page-layout: article
 
 I completed an Honors Senior Thesis in the Environmental Studies department. The thesis is titled: "'Powerful Knowledges of Resistance': Listening to Women of Color Feminism in Environmental Justice Movements." With this thesis, I won the UCSB Library Award for Undergraduate Research and received Distinction in the Major.
 
+Here is the link to access the paper:
+
 [eScholarship](https://escholarship.org/uc/item/33f4v76f#main)
 
 [Library Website](https://www.library.ucsb.edu/2025-winners)
 
 ## Projects and Papers
 
-### [NZ Birds Project](nz-birds.qmd)
+### [New Zealand Predator-Free Fencing Study](nz-birds.qmd)
 
-A project researching if predator-proof fencing works in New Zealand by using observations of three species of birds.
+A paper researching the success of predator-free fencing in New Zealand, using transect sampling and observations of tui, tieke, and blackbirds inside and outside of a fenced ecosanctuary called Zealandia.
 
-### [RMP](rmp.qmd)
+### [Restoration Management Plan](rmp.qmd)
 
 A restoration management plan to eradicate non-native species and replace with California native species at East More Mesa space in Goleta, California.
 
