@@ -1,6 +1,6 @@
 ---
 title: "Isabel Chang"
-image: media/mypic.jpeg
+image: media/my_pic.jpg
 toc: false
 about:
   template: jolla
