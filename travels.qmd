@@ -61,11 +61,24 @@ format: html
 ![](media/australia3.jpeg){width=275}
 
 :::
+
 ## Bali
 
+:::{.image-row}
+![](media/bali1.jpeg){width=275}
+![](media/bali2.jpeg){width=275}
+![](media/bali3.jpeg){width=275}
+
+:::
 
 ## Vietnam
 
 
 ## Thailand
 
+:::{.image-row}
+![](media/thailand1.jpeg){width=275}
+![](media/thailand2.jpeg){width=275}
+![](media/thailand3.jpeg){width=275}
+
+:::
