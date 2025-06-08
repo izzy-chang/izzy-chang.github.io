@@ -41,16 +41,26 @@ format: html
 ![](media/fiji1.jpeg){width=275}
 ![](media/fiji2.jpeg){width=275}
 ![](media/fiji3.jpeg){width=275}
-
 ::: 
 
 
 ## Samoa
 
+:::{.image-row}
+![](media/samoa1.jpeg){width=275}
+![](media/samoa2.jpeg){width=275}
+![](media/samoa3.jpeg){width=275}
+
+:::
 
 ## Australia
 
+:::{.image-row}
+![](media/australia1.jpeg){width=275}
+![](media/australia2.jpeg){width=275}
+![](media/australia3.jpeg){width=275}
 
+:::
 ## Bali
 
 
