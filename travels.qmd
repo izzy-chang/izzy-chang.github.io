@@ -29,5 +29,33 @@ format: html
 
 :::
 
+## Wellington, New Zealand
 
+
+## South Island, New Zealand
+
+
+## Fiji
+
+:::{.image-row}
+![](media/fiji1.jpeg){width=275}
+![](media/fiji2.jpeg){width=275}
+![](media/fiji3.jpeg){width=275}
+
+::: 
+
+
+## Samoa
+
+
+## Australia
+
+
+## Bali
+
+
+## Vietnam
+
+
+## Thailand
 
