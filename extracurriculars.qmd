@@ -9,6 +9,10 @@ As Chair of the Ocean Friendly Restaurants Committee, I work with local restaura
 
 [Map of Ocean Friendly Restaurants](https://www.surfrider.org/programs/ocean-friendly-restaurants)
 
+::: image-row
+![](media/surfrider1.jpeg){width="350"} ![](media/surfrider2.jpeg){width="350"}
+:::
+
 ## Camp Kesem at UCSB
 
 As Development Coordinator, I help lead fundraising efforts to support kids whose parents have been affected by cancer -- with the goal of giving them a free and unforgettable summer camp experience. I meet weekly with the leadership team to stay aligned on goals, and I build connections with community members and donors to keep our mission moving forward. I help plan and run fundraising events throughout the year, including a Giving Tuesday campaign where we raised over \$45,000 in one day. So far, we have blown past our annual goal of \$70,000 -- raising over \$100,000.
@@ -17,11 +21,14 @@ As Development Coordinator, I help lead fundraising efforts to support kids whos
 
 [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/11GZUY3IJURE/ref=hz_ls_biz_ex)
 
+::: image-row
+![](media/kesem2.jpeg){width="225"} ![](media/kesem1.jpeg){width="400"} ![](media/kesem3.jpeg){width="225"}
+:::
+
 ## UCSB Facilities Management
 
 In this role, I help keep things running behind the scenes by processing purchase orders, receiving shipments, and delivering supplies around campus. I regularly work with vendors and campus tradesmen to keep everything organized and on track. I also help organize past maintenance request tickets by creating visual trends with the data to help the departments better understand where resources are going.
 
-![Example of Carpentry Shop Tickets Created Weekly](media/carp_created_weekly.jpeg){width=600}
+![Example of Carpentry Shop Tickets Created Weekly](media/carp_created_weekly.jpeg){width="600"}
 
-![Example of Carpentry Shop Tickets Created and Closed Monthly](media/carp_created_closed.jpeg){width=600}
-
+![Example of Carpentry Shop Tickets Created and Closed Monthly](media/carp_created_closed.jpeg){width="600"}
