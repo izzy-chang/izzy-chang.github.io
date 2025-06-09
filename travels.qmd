@@ -73,6 +73,12 @@ format: html
 
 ## Vietnam
 
+:::{.image-row}
+![](media/vietnam1.jpeg){width=275}
+![](media/vietnam2.jpeg){width=275}
+![](media/vietnam3.jpeg){width=275}
+
+:::
 
 ## Thailand
 
