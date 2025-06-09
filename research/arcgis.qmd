@@ -1,0 +1,9 @@
+---
+title: "ArcGIS Pro StoryMap"
+date: 2025-03-17
+description: A StoryMap analyzing habitat corridor threats in ecoregions of California.
+categories: [Ecology, California]
+format: html
+page-layout: article
+---
+### [ArcGIS Pro StoryMap](https://storymaps.arcgis.com/stories/500c2a3c646843bdb1463ab200f3e922)

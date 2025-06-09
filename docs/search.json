@@ -28,11 +28,11 @@
     "text": "UCSB Facilities Management\nIn this role, I help keep things running behind the scenes by processing purchase orders, receiving shipments, and delivering supplies around campus. I regularly work with vendors and campus tradesmen to keep everything organized and on track. I also help organize past maintenance request tickets by creating visual trends with the data to help the departments better understand where resources are going.\n\n\n\nExample of Carpentry Shop Tickets Created Weekly\n\n\n\n\n\nExample of Carpentry Shop Tickets Created and Closed Monthly"
   },
   {
-    "objectID": "travels.html#wellington-new-zealand",
-    "href": "travels.html#wellington-new-zealand",
+    "objectID": "travels.html#north-island-new-zealand",
+    "href": "travels.html#north-island-new-zealand",
     "title": "Travels",
-    "section": "Wellington, New Zealand",
-    "text": "Wellington, New Zealand"
+    "section": "North Island, New Zealand",
+    "text": "North Island, New Zealand"
   },
   {
     "objectID": "travels.html#south-island-new-zealand",
@@ -84,25 +84,11 @@
     "text": "Thailand"
   },
   {
-    "objectID": "research/nz-birds.html",
-    "href": "research/nz-birds.html",
-    "title": "NZ Birds Project",
+    "objectID": "research/arcgis.html",
+    "href": "research/arcgis.html",
+    "title": "ArcGIS Pro StoryMap",
     "section": "",
-    "text": "This project explores predator-free fencing in New Zealand and the effects on native bird populations using observational data."
-  },
-  {
-    "objectID": "research/nz-birds.html#overview",
-    "href": "research/nz-birds.html#overview",
-    "title": "NZ Birds Project",
-    "section": "",
-    "text": "This project explores predator-free fencing in New Zealand and the effects on native bird populations using observational data."
-  },
-  {
-    "objectID": "research/nz-birds.html#paper",
-    "href": "research/nz-birds.html#paper",
-    "title": "NZ Birds Project",
-    "section": "Paper",
-    "text": "Paper"
+    "text": "ArcGIS Pro StoryMap"
   },
   {
     "objectID": "research/research.html",
@@ -133,52 +119,17 @@
     "text": "Lab Assistant Work\n\nMarine Parasite Lab – Kuris Lab\nIn the Kuris Lab, I assisted with the dissection of octopuses to study marine parasites. I independently analyzed organs to identify infections from Aggregata species and helped maintain detailed records, including data entry and photo documentation. I also took care of octopus husbandry, including feeding, cleaning tanks, and monitoring the animals’ health on a regular basis.\n\n\nPlant Flammability Lab – D’Antonio Lab\nWhile working in the Plant Flammability lab, I collected and recorded plant traits like weight and water potential, and helped carry out experimental burns to study fire behavior. I managed methane tanks, handled eucalyptus samples, and filmed each burn to caputre data for later analysis.\n\n\nVernal Pool Restoration Lab Assistant – D’Antonio Lab\nIn this role, I worked independently in a molecular lab setting to run PCR tests on environmental DNA (eDNA) samples. I practiced careful pipetting and sterile techniques while operating the thermocycler to help indentify species present in vernal pool ecosystems."
   },
   {
-    "objectID": "research/rmp.html",
-    "href": "research/rmp.html",
-    "title": "RMP",
-    "section": "",
-    "text": "This is a restoration management plan to eradicate non-native species and restore them with California native species in the East More Mesa space in Goleta, California."
-  },
-  {
-    "objectID": "research/rmp.html#overview",
-    "href": "research/rmp.html#overview",
-    "title": "RMP",
-    "section": "",
-    "text": "This is a restoration management plan to eradicate non-native species and restore them with California native species in the East More Mesa space in Goleta, California."
-  },
-  {
-    "objectID": "research/rmp.html#paper",
-    "href": "research/rmp.html#paper",
-    "title": "RMP",
-    "section": "Paper",
-    "text": "Paper"
-  },
-  {
-    "objectID": "research/incursion.html",
-    "href": "research/incursion.html",
-    "title": "Hypothetical Incursion Plan",
-    "section": "",
-    "text": "This is a hypothetical incursion plan if the Rosy Wolf Snail invaded New Zealand."
-  },
-  {
-    "objectID": "research/incursion.html#overview",
-    "href": "research/incursion.html#overview",
-    "title": "Hypothetical Incursion Plan",
-    "section": "",
-    "text": "This is a hypothetical incursion plan if the Rosy Wolf Snail invaded New Zealand."
-  },
-  {
-    "objectID": "research/incursion.html#paper",
-    "href": "research/incursion.html#paper",
-    "title": "Hypothetical Incursion Plan",
-    "section": "Paper",
-    "text": "Paper"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Isabel Chang",
     "section": "",
     "text": "Hi! I’m Isabel Chang, a fourth-year undergraduate at UC Santa Barbara, originally from Ithaca, New York. I am graduating in a few weeks with a Bachelor of Science in Environmental Studies with a concentration in Ecology."
+  },
+  {
+    "objectID": "research/research.html#papers-and-projects",
+    "href": "research/research.html#papers-and-projects",
+    "title": "Research",
+    "section": "Papers and Projects",
+    "text": "Papers and Projects"
   }
 ]

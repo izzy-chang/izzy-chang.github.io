@@ -1,12 +1,11 @@
 ---
 title: "Hypothetical Incursion Plan"
+date: 2023-10-01
+description: "A hypothetical incursion plan for the Rosy Wolf snail in New Zealand."
+categories: [Ecology, New Zealand]
 format: html
 page-layout: article
 ---
-
-## Overview
-
-This is a hypothetical incursion plan if the Rosy Wolf Snail invaded New Zealand.
 
 ## Paper
 

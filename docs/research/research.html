@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -66,9 +68,67 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -123,22 +183,16 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#environmental-studies-honors-senior-thesis" id="toc-environmental-studies-honors-senior-thesis" class="nav-link active" data-scroll-target="#environmental-studies-honors-senior-thesis">Environmental Studies Honors Senior Thesis</a></li>
-  <li><a href="#projects-and-papers" id="toc-projects-and-papers" class="nav-link" data-scroll-target="#projects-and-papers">Projects and Papers</a>
-  <ul class="collapse">
-  <li><a href="#new-zealand-predator-free-fencing-study" id="toc-new-zealand-predator-free-fencing-study" class="nav-link" data-scroll-target="#new-zealand-predator-free-fencing-study">New Zealand Predator-Free Fencing Study</a></li>
-  <li><a href="#restoration-management-plan" id="toc-restoration-management-plan" class="nav-link" data-scroll-target="#restoration-management-plan">Restoration Management Plan</a></li>
-  <li><a href="#incursion-plan" id="toc-incursion-plan" class="nav-link" data-scroll-target="#incursion-plan">Incursion Plan</a></li>
-  <li><a href="#arcgis-pro-storymap" id="toc-arcgis-pro-storymap" class="nav-link" data-scroll-target="#arcgis-pro-storymap">ArcGIS Pro StoryMap</a></li>
-  </ul></li>
   <li><a href="#lab-assistant-work" id="toc-lab-assistant-work" class="nav-link" data-scroll-target="#lab-assistant-work">Lab Assistant Work</a>
   <ul class="collapse">
   <li><a href="#marine-parasite-lab-kuris-lab" id="toc-marine-parasite-lab-kuris-lab" class="nav-link" data-scroll-target="#marine-parasite-lab-kuris-lab">Marine Parasite Lab – Kuris Lab</a></li>
   <li><a href="#plant-flammability-lab-dantonio-lab" id="toc-plant-flammability-lab-dantonio-lab" class="nav-link" data-scroll-target="#plant-flammability-lab-dantonio-lab">Plant Flammability Lab – D’Antonio Lab</a></li>
   <li><a href="#vernal-pool-restoration-lab-assistant-dantonio-lab" id="toc-vernal-pool-restoration-lab-assistant-dantonio-lab" class="nav-link" data-scroll-target="#vernal-pool-restoration-lab-assistant-dantonio-lab">Vernal Pool Restoration Lab Assistant – D’Antonio Lab</a></li>
   </ul></li>
+  <li><a href="#papers-and-projects" id="toc-papers-and-projects" class="nav-link" data-scroll-target="#papers-and-projects">Papers and Projects</a></li>
   </ul>
 </nav>
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="California">California <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Ecology">Ecology <span class="quarto-category-count">(4)</span></div><div class="category" data-category="New Zealand">New Zealand <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -171,25 +225,6 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://escholarship.org/uc/item/33f4v76f#main">eScholarship</a></p>
 <p><a href="https://www.library.ucsb.edu/2025-winners">Library Website</a></p>
 </section>
-<section id="projects-and-papers" class="level2">
-<h2 class="anchored" data-anchor-id="projects-and-papers">Projects and Papers</h2>
-<section id="new-zealand-predator-free-fencing-study" class="level3">
-<h3 class="anchored" data-anchor-id="new-zealand-predator-free-fencing-study"><a href="../research/nz-birds.html">New Zealand Predator-Free Fencing Study</a></h3>
-<p>A paper researching the success of predator-free fencing in New Zealand, using transect sampling and observations of tui, tieke, and blackbirds inside and outside of a fenced ecosanctuary called Zealandia.</p>
-</section>
-<section id="restoration-management-plan" class="level3">
-<h3 class="anchored" data-anchor-id="restoration-management-plan"><a href="../research/rmp.html">Restoration Management Plan</a></h3>
-<p>A restoration management plan to eradicate non-native species and replace with California native species at East More Mesa space in Goleta, California.</p>
-</section>
-<section id="incursion-plan" class="level3">
-<h3 class="anchored" data-anchor-id="incursion-plan"><a href="../research/incursion.html">Incursion Plan</a></h3>
-<p>A hypothetical incursion plan for the Rosy Wolf snail in New Zealand.</p>
-</section>
-<section id="arcgis-pro-storymap" class="level3">
-<h3 class="anchored" data-anchor-id="arcgis-pro-storymap"><a href="https://storymaps.arcgis.com/stories/500c2a3c646843bdb1463ab200f3e922">ArcGIS Pro StoryMap</a></h3>
-<p>A StoryMap analyzing habitat corridor threats in ecoregions of California.</p>
-</section>
-</section>
 <section id="lab-assistant-work" class="level2">
 <h2 class="anchored" data-anchor-id="lab-assistant-work">Lab Assistant Work</h2>
 <section id="marine-parasite-lab-kuris-lab" class="level3">
@@ -203,12 +238,146 @@ ul.task-list li input[type="checkbox"] {
 <section id="vernal-pool-restoration-lab-assistant-dantonio-lab" class="level3">
 <h3 class="anchored" data-anchor-id="vernal-pool-restoration-lab-assistant-dantonio-lab">Vernal Pool Restoration Lab Assistant – D’Antonio Lab</h3>
 <p>In this role, I worked independently in a molecular lab setting to run PCR tests on environmental DNA (eDNA) samples. I practiced careful pipetting and sterile techniques while operating the thermocycler to help indentify species present in vernal pool ecosystems.</p>
+</section>
+</section>
+<section id="papers-and-projects" class="level2">
+<h2 class="anchored" data-anchor-id="papers-and-projects">Papers and Projects</h2>
+
 
 
 </section>
-</section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Ecology,California" data-listing-date-sort="1748761200000" data-listing-file-modified-sort="1749507762251" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
+<a href="../research/rmp.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Restoration Management Plan
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Ecology'); return false;">
+Ecology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('California'); return false;">
+California
+</div>
+</div>
+<div class="card-text listing-description">
+A restoration management plan to eradicate non-native species and replace with California native species at East More Mesa space in Goleta, California.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jun 1, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Ecology,California" data-listing-date-sort="1742194800000" data-listing-file-modified-sort="1749507729716" data-listing-date-modified-sort="NaN">
+<a href="../research/arcgis.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+ArcGIS Pro StoryMap
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Ecology'); return false;">
+Ecology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('California'); return false;">
+California
+</div>
+</div>
+<div class="card-text listing-description">
+A StoryMap analyzing habitat corridor threats in ecoregions of California.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Mar 17, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Ecology,New Zealand" data-listing-date-sort="1696143600000" data-listing-file-modified-sort="1749507519383" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
+<a href="../research/incursion.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Hypothetical Incursion Plan
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Ecology'); return false;">
+Ecology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('New Zealand'); return false;">
+New Zealand
+</div>
+</div>
+<div class="card-text listing-description">
+A hypothetical incursion plan for the Rosy Wolf snail in New Zealand.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Oct 1, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Ecology,New Zealand" data-listing-date-sort="1693983600000" data-listing-file-modified-sort="1749507536240" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
+<a href="../research/nz-birds.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+New Zealand Predator-Free Fencing Study
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Ecology'); return false;">
+Ecology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('New Zealand'); return false;">
+New Zealand
+</div>
+</div>
+<div class="card-text listing-description">
+A paper researching the success of predator-free fencing in New Zealand, using transect sampling and observations of tui, tieke, and blackbirds inside and outside of a…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Sep 6, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

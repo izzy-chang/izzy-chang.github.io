@@ -1,6 +1,11 @@
 ---
 title: "Research"
 format: html
+listing:
+  contents: .
+  sort: "date desc"
+  type: grid
+  categories: true
 page-layout: article
 ---
 
@@ -19,24 +24,6 @@ Here is the link to access the paper:
 
 [Library Website](https://www.library.ucsb.edu/2025-winners)
 
-## Projects and Papers
-
-### [New Zealand Predator-Free Fencing Study](nz-birds.qmd)
-
-A paper researching the success of predator-free fencing in New Zealand, using transect sampling and observations of tui, tieke, and blackbirds inside and outside of a fenced ecosanctuary called Zealandia.
-
-### [Restoration Management Plan](rmp.qmd)
-
-A restoration management plan to eradicate non-native species and replace with California native species at East More Mesa space in Goleta, California.
-
-### [Incursion Plan](incursion.qmd)
-
-A hypothetical incursion plan for the Rosy Wolf snail in New Zealand.
-
-### [ArcGIS Pro StoryMap](https://storymaps.arcgis.com/stories/500c2a3c646843bdb1463ab200f3e922)
-
-A StoryMap analyzing habitat corridor threats in ecoregions of California.
-
 ## Lab Assistant Work
 
 ### Marine Parasite Lab -- Kuris Lab
@@ -50,3 +37,5 @@ While working in the Plant Flammability lab, I collected and recorded plant trai
 ### Vernal Pool Restoration Lab Assistant -- D'Antonio Lab
 
 In this role, I worked independently in a molecular lab setting to run PCR tests on environmental DNA (eDNA) samples. I practiced careful pipetting and sterile techniques while operating the thermocycler to help indentify species present in vernal pool ecosystems.
+
+## Papers and Projects

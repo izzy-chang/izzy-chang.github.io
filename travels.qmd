@@ -29,11 +29,21 @@ format: html
 
 :::
 
-## Wellington, New Zealand
+## North Island, New Zealand
 
+:::{.image-row}
+![](media/northisland1.jpeg){width=275}
+![](media/northisland2.jpeg){width=275}
+![](media/northisland3.jpeg){width=275}
+::: 
 
 ## South Island, New Zealand
 
+:::{.image-row}
+![](media/southisland1.jpeg){width=275}
+![](media/southisland2.jpeg){width=275}
+![](media/southisland3.jpeg){width=275}
+::: 
 
 ## Fiji
 

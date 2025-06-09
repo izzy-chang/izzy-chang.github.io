@@ -1,12 +1,11 @@
 ---
-title: "NZ Birds Project"
+title: "New Zealand Predator-Free Fencing Study"
+date: 2023-09-06
+description: "A paper researching the success of predator-free fencing in New Zealand, using transect sampling and observations of tui, tieke, and blackbirds inside and outside of a fenced ecosanctuary called Zealandia."
 format: html
+categories: [Ecology, New Zealand]
 page-layout: article
 ---
-
-## Overview
-
-This project explores predator-free fencing in New Zealand and the effects on native bird populations using observational data.
 
 ## Paper
 
