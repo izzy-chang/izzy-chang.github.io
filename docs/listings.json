@@ -2,7 +2,9 @@
   {
     "listing": "/research/research.html",
     "items": [
+      "/research/resume.html",
       "/research/rmp.html",
+      "/research/thesis.html",
       "/research/arcgis.html",
       "/research/incursion.html",
       "/research/nz-birds.html"

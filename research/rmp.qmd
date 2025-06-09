@@ -1,12 +1,11 @@
 ---
-title: "RMP"
+title: "Restoration Management Plan"
+date: 2025-06-01
+description: "A restoration management plan to eradicate non-native species and replace with California native species at East More Mesa space in Goleta, California."
 format: html
+categories: [Ecology, California]
 page-layout: article
 ---
-
-## Overview
-
-This is a restoration management plan to eradicate non-native species and restore them with California native species in the East More Mesa space in Goleta, California.
 
 ## Paper
 

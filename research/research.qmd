@@ -9,21 +9,6 @@ listing:
 page-layout: article
 ---
 
-## Environmental Studies Honors Senior Thesis
-
-:::{.image-row}
-![](laurpic.jpeg){width=400}
-![](firstplace.jpeg){width=300}
-::: 
-
-I completed an Honors Senior Thesis in the Environmental Studies department. The thesis is titled: "'Powerful Knowledges of Resistance': Listening to Women of Color Feminism in Environmental Justice Movements." With this thesis, I won the UCSB Library Award for Undergraduate Research and received Distinction in the Major.
-
-Here is the link to access the paper:
-
-[eScholarship](https://escholarship.org/uc/item/33f4v76f#main)
-
-[Library Website](https://www.library.ucsb.edu/2025-winners)
-
 ## Lab Assistant Work
 
 ### Marine Parasite Lab -- Kuris Lab
@@ -37,5 +22,13 @@ While working in the Plant Flammability lab, I collected and recorded plant trai
 ### Vernal Pool Restoration Lab Assistant -- D'Antonio Lab
 
 In this role, I worked independently in a molecular lab setting to run PCR tests on environmental DNA (eDNA) samples. I practiced careful pipetting and sterile techniques while operating the thermocycler to help indentify species present in vernal pool ecosystems.
+
+
+## Environmental Studies Honors Senior Thesis
+
+:::{.image-row}
+![](laurpic.jpeg){width=400}
+![](firstplace.jpeg){width=300}
+::: 
 
 ## Papers and Projects
