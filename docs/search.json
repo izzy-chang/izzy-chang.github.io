@@ -88,14 +88,14 @@
     "href": "research/arcgis.html",
     "title": "ArcGIS Pro StoryMap",
     "section": "",
-    "text": "ArcGIS Pro StoryMap"
+    "text": "For my ENV S 154 (GIS for Environmental Applications) class, I had a quarter-long group project to create maps and eventually an ArcGIS Pro StoryMap. My group chose to answer the questions: “What have been\nthe historical greatest threats to wildlife corridors and which ecoregions in California have the most threatened wildlife corridors?” We created three different maps for three wildlife connectivity levels. Each of the maps have threat layers of movement barriers, fires, drought, human development, and logging, all projected onto an ecoregions map of California. We found the maximum threat for each ecoregion for each connectivity layer, along with the cumulative threats within habitat corridors to find the hotspots of which ecoregions have the most threats in each connectivity layer.\n\nArcGIS Pro StoryMap"
   },
   {
     "objectID": "research/thesis.html",
     "href": "research/thesis.html",
     "title": "Environmental Studies Honors Thesis",
     "section": "",
-    "text": "I completed an Honors Senior Thesis in the Environmental Studies department. The thesis is titled: “‘Powerful Knowledges of Resistance’: Listening to Women of Color Feminism in Environmental Justice Movements.” With this thesis, I won the UCSB Library Award for Undergraduate Research and received Distinction in the Major.\n\neScholarship\n\n\nLibrary Website"
+    "text": "I completed an Honors Senior Thesis in the Environmental Studies department. The thesis is titled: “‘Powerful Knowledges of Resistance’: Listening to Women of Color Feminism in Environmental Justice Movements.” My advisor was Dehlsen Professor David Pellow.\n\neScholarship\n\n\nLibrary Website"
   },
   {
     "objectID": "research/research.html",
@@ -131,5 +131,54 @@
     "title": "Isabel Chang",
     "section": "",
     "text": "Hi! I’m Isabel Chang, a fourth-year undergraduate at UC Santa Barbara, originally from Ithaca, New York. I am graduating in a few weeks with a Bachelor of Science in Environmental Studies with a concentration in Ecology."
+  },
+  {
+    "objectID": "research/research.html#ucsb-library-award-for-undergraduate-research",
+    "href": "research/research.html#ucsb-library-award-for-undergraduate-research",
+    "title": "Research",
+    "section": "UCSB Library Award for Undergraduate Research",
+    "text": "UCSB Library Award for Undergraduate Research\nWith my Environmental Studeis Honors Senior Thesis, I won the UCSB Library Award for Undergraduate Research in the Social Sciences category! This award recognizes students who have made expert use of the resources of services at the UCSB library to produce creative or scholarly work. My thesis is now published on eScholarship, which is accessible through the UC Library Reserve system."
+  },
+  {
+    "objectID": "research/incursion.html",
+    "href": "research/incursion.html",
+    "title": "Hypothetical Incursion Plan",
+    "section": "",
+    "text": "This was a group assignment in my BIOL328 (Behaviour and Conservation Ecology) course when I was abroad at Victoria University of Wellington. We were assigned an invasive animal (the Rosy Wolf Snail) and told to imagine that this animal had invaded New Zealand. We researched the background of this species and wrote a hypothetical Pest Incursion Plan for the Ministry of Primary Industries, directing on what plan of action to take to protect native New Zealand wildlife."
+  },
+  {
+    "objectID": "research/incursion.html#paper",
+    "href": "research/incursion.html#paper",
+    "title": "Hypothetical Incursion Plan",
+    "section": "Paper",
+    "text": "Paper"
+  },
+  {
+    "objectID": "research/nz-birds.html",
+    "href": "research/nz-birds.html",
+    "title": "New Zealand Predator-Free Fencing Study",
+    "section": "",
+    "text": "This is a research paper for my BIOL 328 (Behaviour and Conservation Ecology) course when I was abroad at Victoria University of Wellington. For this, we went to a fenced ecosanctuary called Zealandia and a non-fenced area outside of Zealandia. We used distance sampling to compare population densities of three different bird species inside and outside of the fenced sanctuary to test the effectiveness of the fences."
+  },
+  {
+    "objectID": "research/nz-birds.html#paper",
+    "href": "research/nz-birds.html#paper",
+    "title": "New Zealand Predator-Free Fencing Study",
+    "section": "Paper",
+    "text": "Paper"
+  },
+  {
+    "objectID": "research/rmp.html",
+    "href": "research/rmp.html",
+    "title": "Restoration Management Plan",
+    "section": "",
+    "text": "This is a group project for ENV S 133 (Biodiversity and Conservation Biology). We were given a local location, East More Mesa in Goleta, and tasked with creating a Restoration Master Plan to help restore native plants and eradicate non-native species with a $500,000 hypothetical budget. We researched the background of the area, conducted a site visit to look at the hydrology, topography, fauna, flora, and other factors. We used transects to identify plant species and substrate types around the location. Finally, we created a plan for restoration of the area."
+  },
+  {
+    "objectID": "research/rmp.html#paper",
+    "href": "research/rmp.html#paper",
+    "title": "Restoration Management Plan",
+    "section": "Paper",
+    "text": "Paper"
   }
 ]

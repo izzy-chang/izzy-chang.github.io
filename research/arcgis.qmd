@@ -6,4 +6,8 @@ categories: [Ecology, California]
 format: html
 page-layout: article
 ---
+
+For my ENV S 154 (GIS for Environmental Applications) class, I had a quarter-long group project to create maps and eventually an ArcGIS Pro StoryMap. My group chose to answer the questions: "What have been\
+the historical greatest threats to wildlife corridors and which ecoregions in California have the most threatened wildlife corridors?" We created three different maps for three wildlife connectivity levels. Each of the maps have threat layers of movement barriers, fires, drought, human development, and logging, all projected onto an ecoregions map of California. We found the maximum threat for each ecoregion for each connectivity layer, along with the cumulative threats within habitat corridors to find the hotspots of which ecoregions have the most threats in each connectivity layer.
+
 ### [ArcGIS Pro StoryMap](https://storymaps.arcgis.com/stories/500c2a3c646843bdb1463ab200f3e922)

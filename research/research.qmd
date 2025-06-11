@@ -23,12 +23,12 @@ While working in the Plant Flammability lab, I collected and recorded plant trai
 
 In this role, I worked independently in a molecular lab setting to run PCR tests on environmental DNA (eDNA) samples. I practiced careful pipetting and sterile techniques while operating the thermocycler to help indentify species present in vernal pool ecosystems.
 
+## UCSB Library Award for Undergraduate Research
 
-## Environmental Studies Honors Senior Thesis
+With my Environmental Studeis Honors Senior Thesis, I won the UCSB Library Award for Undergraduate Research in the Social Sciences category! This award recognizes students who have made expert use of the resources of services at the UCSB library to produce creative or scholarly work. My thesis is now published on eScholarship, which is accessible through the UC Library Reserve system.
 
-:::{.image-row}
-![](laurpic.jpeg){width=400}
-![](firstplace.jpeg){width=300}
-::: 
+::: image-row
+![](laurpic.jpeg){width="400"} ![](firstplace.jpeg){width="300"}
+:::
 
 ## Papers and Projects
