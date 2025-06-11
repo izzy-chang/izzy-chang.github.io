@@ -3,6 +3,7 @@ title: "Resume"
 date: 2025-07-09
 description: "Isabel Chang's Resume"
 format: html
+image: ../media/me.jpg
 categories: [Resume]
 page-layout: article
 ---

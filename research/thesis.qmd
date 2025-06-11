@@ -2,6 +2,7 @@
 title: "Environmental Studies Honors Thesis"
 date: 2025-05-17
 description: "'Powerful Knowledges of Resistance': Listening to Women of Color Feminism in Environmental Justice Movements"
+image: ../research/firstplace.jpeg
 categories: [Feminism, Environmental Justice]
 format: html
 page-layout: article

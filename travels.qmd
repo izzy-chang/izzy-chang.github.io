@@ -30,52 +30,51 @@ format: html
 ```
 ::::
 
-### Photo Gallery 
+## Photo Gallery 
 
-
-## North Island, New Zealand
+### North Island, New Zealand
 
 ::: image-row
 ![](media/northisland1.jpeg){width="275"} ![](media/northisland2.jpeg){width="275"} ![](media/northisland3.jpeg){width="275"}
 :::
 
-## South Island, New Zealand
+### South Island, New Zealand
 
 ::: image-row
 ![](media/southisland1.jpeg){width="275"} ![](media/southisland2.jpeg){width="275"} ![](media/southisland3.jpeg){width="275"}
 :::
 
-## Fiji
+### Fiji
 
 ::: image-row
 ![](media/fiji1.jpeg){width="275"} ![](media/fiji2.jpeg){width="275"} ![](media/fiji3.jpeg){width="275"}
 :::
 
-## Samoa
+### Samoa
 
 ::: image-row
 ![](media/samoa1.jpeg){width="275"} ![](media/samoa2.jpeg){width="275"} ![](media/samoa3.jpeg){width="275"}
 :::
 
-## Australia
+### Australia
 
 ::: image-row
 ![](media/australia1.jpeg){width="275"} ![](media/australia2.jpeg){width="275"} ![](media/australia3.jpeg){width="275"}
 :::
 
-## Bali
+### Bali
 
 ::: image-row
 ![](media/bali1.jpeg){width="275"} ![](media/bali2.jpeg){width="275"} ![](media/bali3.jpeg){width="275"}
 :::
 
-## Vietnam
+### Vietnam
 
 ::: image-row
 ![](media/vietnam1.jpeg){width="275"} ![](media/vietnam2.jpeg){width="275"} ![](media/vietnam3.jpeg){width="275"}
 :::
 
-## Thailand
+### Thailand
 
 ::: image-row
 ![](media/thailand1.jpeg){width="275"} ![](media/thailand2.jpeg){width="275"} ![](media/thailand3.jpeg){width="275"}

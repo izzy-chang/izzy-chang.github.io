@@ -2,6 +2,7 @@
 title: "Restoration Management Plan"
 date: 2025-06-01
 description: "A restoration management plan to eradicate non-native species and replace with California native species at East More Mesa space in Goleta, California."
+image: ../media/eastmoremesa.jpeg
 format: html
 categories: [Ecology, California]
 page-layout: article

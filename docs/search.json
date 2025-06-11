@@ -28,60 +28,11 @@
     "text": "UCSB Facilities Management\nIn this role, I help keep things running behind the scenes by processing purchase orders, receiving shipments, and delivering supplies around campus. I regularly work with vendors and campus tradesmen to keep everything organized and on track. I also help organize past maintenance request tickets by creating visual trends with the data to help the departments better understand where resources are going.\n\n\n\nExample of Carpentry Shop Tickets Created Weekly\n\n\n\n\n\nExample of Carpentry Shop Tickets Created and Closed Monthly"
   },
   {
-    "objectID": "travels.html#north-island-new-zealand",
-    "href": "travels.html#north-island-new-zealand",
+    "objectID": "travels.html#photo-gallery",
+    "href": "travels.html#photo-gallery",
     "title": "Travels",
-    "section": "North Island, New Zealand",
-    "text": "North Island, New Zealand"
-  },
-  {
-    "objectID": "travels.html#south-island-new-zealand",
-    "href": "travels.html#south-island-new-zealand",
-    "title": "Travels",
-    "section": "South Island, New Zealand",
-    "text": "South Island, New Zealand"
-  },
-  {
-    "objectID": "travels.html#fiji",
-    "href": "travels.html#fiji",
-    "title": "Travels",
-    "section": "Fiji",
-    "text": "Fiji"
-  },
-  {
-    "objectID": "travels.html#samoa",
-    "href": "travels.html#samoa",
-    "title": "Travels",
-    "section": "Samoa",
-    "text": "Samoa"
-  },
-  {
-    "objectID": "travels.html#australia",
-    "href": "travels.html#australia",
-    "title": "Travels",
-    "section": "Australia",
-    "text": "Australia"
-  },
-  {
-    "objectID": "travels.html#bali",
-    "href": "travels.html#bali",
-    "title": "Travels",
-    "section": "Bali",
-    "text": "Bali"
-  },
-  {
-    "objectID": "travels.html#vietnam",
-    "href": "travels.html#vietnam",
-    "title": "Travels",
-    "section": "Vietnam",
-    "text": "Vietnam"
-  },
-  {
-    "objectID": "travels.html#thailand",
-    "href": "travels.html#thailand",
-    "title": "Travels",
-    "section": "Thailand",
-    "text": "Thailand"
+    "section": "Photo Gallery",
+    "text": "Photo Gallery\n\nNorth Island, New Zealand\n\n  \n\n\n\nSouth Island, New Zealand\n\n  \n\n\n\nFiji\n\n  \n\n\n\nSamoa\n\n  \n\n\n\nAustralia\n\n  \n\n\n\nBali\n\n  \n\n\n\nVietnam\n\n  \n\n\n\nThailand"
   },
   {
     "objectID": "research/arcgis.html",
@@ -89,6 +40,20 @@
     "title": "ArcGIS Pro StoryMap",
     "section": "",
     "text": "For my ENV S 154 (GIS for Environmental Applications) class, I had a quarter-long group project to create maps and eventually an ArcGIS Pro StoryMap. My group chose to answer the questions: “What have been\nthe historical greatest threats to wildlife corridors and which ecoregions in California have the most threatened wildlife corridors?” We created three different maps for three wildlife connectivity levels. Each of the maps have threat layers of movement barriers, fires, drought, human development, and logging, all projected onto an ecoregions map of California. We found the maximum threat for each ecoregion for each connectivity layer, along with the cumulative threats within habitat corridors to find the hotspots of which ecoregions have the most threats in each connectivity layer.\n\nArcGIS Pro StoryMap"
+  },
+  {
+    "objectID": "research/rmp.html",
+    "href": "research/rmp.html",
+    "title": "Restoration Management Plan",
+    "section": "",
+    "text": "This is a group project for ENV S 133 (Biodiversity and Conservation Biology). We were given a local location, East More Mesa in Goleta, and tasked with creating a Restoration Master Plan to help restore native plants and eradicate non-native species with a $500,000 hypothetical budget. We researched the background of the area, conducted a site visit to look at the hydrology, topography, fauna, flora, and other factors. We used transects to identify plant species and substrate types around the location. Finally, we created a plan for restoration of the area."
+  },
+  {
+    "objectID": "research/rmp.html#paper",
+    "href": "research/rmp.html#paper",
+    "title": "Restoration Management Plan",
+    "section": "Paper",
+    "text": "Paper"
   },
   {
     "objectID": "research/thesis.html",
@@ -112,11 +77,11 @@
     "text": "In the Kuris Lab, I assisted with the dissection of octopuses to study marine parasites. I independently analyzed organs to identify infections from Aggregata species and helped maintain detailed records, including data entry and photo documentation. I also took care of octopus husbandry, including feeding, cleaning tanks, and monitoring the animals’ health on a regular basis.\n\n\n\nWhile working in the Plant Flammability lab, I collected and recorded plant traits like weight and water potential, and helped carry out experimental burns to study fire behavior. I managed methane tanks, handled eucalyptus samples, and filmed each burn to caputre data for later analysis.\n\n\n\nIn this role, I worked independently in a molecular lab setting to run PCR tests on environmental DNA (eDNA) samples. I practiced careful pipetting and sterile techniques while operating the thermocycler to help indentify species present in vernal pool ecosystems."
   },
   {
-    "objectID": "research/research.html#environmental-studies-honors-senior-thesis",
-    "href": "research/research.html#environmental-studies-honors-senior-thesis",
+    "objectID": "research/research.html#ucsb-library-award-for-undergraduate-research",
+    "href": "research/research.html#ucsb-library-award-for-undergraduate-research",
     "title": "Research",
-    "section": "Environmental Studies Honors Senior Thesis",
-    "text": "Environmental Studies Honors Senior Thesis"
+    "section": "UCSB Library Award for Undergraduate Research",
+    "text": "UCSB Library Award for Undergraduate Research\nWith my Environmental Studeis Honors Senior Thesis, I won the UCSB Library Award for Undergraduate Research in the Social Sciences category! This award recognizes students who have made expert use of the resources of services at the UCSB library to produce creative or scholarly work. My thesis is now published on eScholarship, which is accessible through the UC Library Reserve system."
   },
   {
     "objectID": "research/research.html#papers-and-projects",
@@ -126,39 +91,11 @@
     "text": "Papers and Projects"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Isabel Chang",
-    "section": "",
-    "text": "Hi! I’m Isabel Chang, a fourth-year undergraduate at UC Santa Barbara, originally from Ithaca, New York. I am graduating in a few weeks with a Bachelor of Science in Environmental Studies with a concentration in Ecology."
-  },
-  {
-    "objectID": "research/research.html#ucsb-library-award-for-undergraduate-research",
-    "href": "research/research.html#ucsb-library-award-for-undergraduate-research",
-    "title": "Research",
-    "section": "UCSB Library Award for Undergraduate Research",
-    "text": "UCSB Library Award for Undergraduate Research\nWith my Environmental Studeis Honors Senior Thesis, I won the UCSB Library Award for Undergraduate Research in the Social Sciences category! This award recognizes students who have made expert use of the resources of services at the UCSB library to produce creative or scholarly work. My thesis is now published on eScholarship, which is accessible through the UC Library Reserve system."
-  },
-  {
-    "objectID": "research/incursion.html",
-    "href": "research/incursion.html",
-    "title": "Hypothetical Incursion Plan",
-    "section": "",
-    "text": "This was a group assignment in my BIOL328 (Behaviour and Conservation Ecology) course when I was abroad at Victoria University of Wellington. We were assigned an invasive animal (the Rosy Wolf Snail) and told to imagine that this animal had invaded New Zealand. We researched the background of this species and wrote a hypothetical Pest Incursion Plan for the Ministry of Primary Industries, directing on what plan of action to take to protect native New Zealand wildlife."
-  },
-  {
-    "objectID": "research/incursion.html#paper",
-    "href": "research/incursion.html#paper",
-    "title": "Hypothetical Incursion Plan",
-    "section": "Paper",
-    "text": "Paper"
-  },
-  {
     "objectID": "research/nz-birds.html",
     "href": "research/nz-birds.html",
     "title": "New Zealand Predator-Free Fencing Study",
     "section": "",
-    "text": "This is a research paper for my BIOL 328 (Behaviour and Conservation Ecology) course when I was abroad at Victoria University of Wellington. For this, we went to a fenced ecosanctuary called Zealandia and a non-fenced area outside of Zealandia. We used distance sampling to compare population densities of three different bird species inside and outside of the fenced sanctuary to test the effectiveness of the fences."
+    "text": "This is a research paper for my BIOL 328 (Behaviour and Conservation Ecology) course when I was abroad at Victoria University of Wellington. For this, we went to a fenced ecosanctuary called Zealandia and a non-fenced area outside of Zealandia. We used distance sampling to compare population densities of three different bird species inside and outside of the fenced sanctuary to test the effectiveness of the fences.\nImage: https://www.inaturalist.org/guide_taxa/260593"
   },
   {
     "objectID": "research/nz-birds.html#paper",
@@ -168,17 +105,24 @@
     "text": "Paper"
   },
   {
-    "objectID": "research/rmp.html",
-    "href": "research/rmp.html",
-    "title": "Restoration Management Plan",
+    "objectID": "research/incursion.html",
+    "href": "research/incursion.html",
+    "title": "Hypothetical Incursion Plan",
     "section": "",
-    "text": "This is a group project for ENV S 133 (Biodiversity and Conservation Biology). We were given a local location, East More Mesa in Goleta, and tasked with creating a Restoration Master Plan to help restore native plants and eradicate non-native species with a $500,000 hypothetical budget. We researched the background of the area, conducted a site visit to look at the hydrology, topography, fauna, flora, and other factors. We used transects to identify plant species and substrate types around the location. Finally, we created a plan for restoration of the area."
+    "text": "This was a group assignment in my BIOL328 (Behaviour and Conservation Ecology) course when I was abroad at Victoria University of Wellington. We were assigned an invasive animal (the Rosy Wolf Snail) and told to imagine that this animal had invaded New Zealand. We researched the background of this species and wrote a hypothetical Pest Incursion Plan for the Ministry of Primary Industries, directing on what plan of action to take to protect native New Zealand wildlife.\nImage: https://www.molluscs.at/gastropoda/terrestrial.html?/gastropoda/terrestrial/euglandina.html"
   },
   {
-    "objectID": "research/rmp.html#paper",
-    "href": "research/rmp.html#paper",
-    "title": "Restoration Management Plan",
+    "objectID": "research/incursion.html#paper",
+    "href": "research/incursion.html#paper",
+    "title": "Hypothetical Incursion Plan",
     "section": "Paper",
     "text": "Paper"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Isabel Chang",
+    "section": "",
+    "text": "Hi! I’m Isabel Chang, a fourth-year undergraduate at UC Santa Barbara, originally from Ithaca, New York. I am graduating from UC Santa Barbara with a Bachelor of Science in Environmental Studies with a concentration in Ecology.\nThis website was created using Sam Shanny-Csik’s directions: https://ucsb-meds.github.io/creating-quarto-websites/"
   }
 ]

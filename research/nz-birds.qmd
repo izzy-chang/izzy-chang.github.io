@@ -2,12 +2,15 @@
 title: "New Zealand Predator-Free Fencing Study"
 date: 2023-09-06
 description: "A paper researching the success of predator-free fencing in New Zealand, using transect sampling and observations of tui, tieke, and blackbirds inside and outside of a fenced ecosanctuary called Zealandia."
+image: ../media/tui.jpg
 format: html
 categories: [Ecology, New Zealand]
 page-layout: article
 ---
 
 This is a research paper for my BIOL 328 (Behaviour and Conservation Ecology) course when I was abroad at Victoria University of Wellington. For this, we went to a fenced ecosanctuary called Zealandia and a non-fenced area outside of Zealandia. We used distance sampling to compare population densities of three different bird species inside and outside of the fenced sanctuary to test the effectiveness of the fences.
+
+Image: <https://www.inaturalist.org/guide_taxa/260593>
 
 ## Paper
 
